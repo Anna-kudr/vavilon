@@ -1,0 +1,11 @@
+Model Information:
+* title:	Babylon Fall
+* source:	https://sketchfab.com/3d-models/babylon-fall-d67d56edcc784cca804045bd2e1fe6f0
+* author:	Geoffrey Marchal (https://sketchfab.com/geoffreymarchal)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Babylon Fall" (https://sketchfab.com/3d-models/babylon-fall-d67d56edcc784cca804045bd2e1fe6f0) by Geoffrey Marchal (https://sketchfab.com/geoffreymarchal) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
